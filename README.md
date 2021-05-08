@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Domain Driven Design Principles
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Coding
-- ⚡ Fun fact: I develop software and conduct research.
+- ⚡ I develop software and conduct research.
 
 Social Networks:
 
