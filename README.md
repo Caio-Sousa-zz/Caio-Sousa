@@ -1,8 +1,8 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on Projects with .NET 5
-- 🌱 I’m currently learning Domain Driven Design Principles
-- 👯 I’m looking to collaborate on Youtube
+- 🔭 I’m currently working on Projects with .NET
+- 🌱 I’m currently learning Test Driven Development
+- 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Coding
 - ⚡ I develop software and conduct research
 
